@@ -1,0 +1,5 @@
+C:\Dev\Dersler\Todolist\obj\Debug\net6.0\Todolist.csproj.AssemblyReference.cache
+C:\Dev\Dersler\Todolist\obj\Debug\net6.0\Todolist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Dersler\Todolist\obj\Debug\net6.0\Todolist.AssemblyInfoInputs.cache
+C:\Dev\Dersler\Todolist\obj\Debug\net6.0\Todolist.AssemblyInfo.cs
+C:\Dev\Dersler\Todolist\obj\Debug\net6.0\Todolist.csproj.CoreCompileInputs.cache
